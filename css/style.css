@@ -1,0 +1,25 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    margin: 0px;
+}
+
+.container{
+    margin: 0px !important;
+    width: 100% !important;
+}
+.jumbotron {
+    background-color: #003f5a;
+    text-align: center;
+    height: 600px;
+    color:#ebd9c8;
+    font-size: 30px;
+    margin: 0px auto;
+    width: 95%;
+    padding:0px !important;
+}
+h1 {
+    font-weight: normal;
+}
+
